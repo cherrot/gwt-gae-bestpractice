@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+    <application>ratechecker</application>
+    <!--It seems that the expression is unrecognizable-->
+<!--    <version>${gae.application.version}</version>-->
+    <version>test</version>
+
+    <system-properties>
+        <property name="java.util.logging.config.file" value="WEB-INF/classes/logging.properties"/>
+    </system-properties>
+
+    <sessions-enabled>true</sessions-enabled>
+
+    <threadsafe>true</threadsafe>
+</appengine-web-app>

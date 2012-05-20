@@ -1,0 +1,40 @@
+02:31:06,279 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+02:31:06,471 (main) ERROR [DataNucleus.Plugin] - Bundle "org.datanucleus.store.appengine" requires "org.datanucleus" version "[1.0.4, 1.1.5.final)" but the resolved bundle has version "1.0.10.final" which is outside the expected range.
+02:31:06,471 (main) INFO  [DataNucleus.Plugin] - Bundle "org.datanucleus" has an optional dependency to "org.eclipse.equinox.registry" but it cannot be resolved
+02:31:06,471 (main) INFO  [DataNucleus.Plugin] - Bundle "org.datanucleus" has an optional dependency to "org.eclipse.core.runtime" but it cannot be resolved
+02:31:06,535 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 1.1.4) : Enhancement of classes
+02:31:06,628 (main) INFO  [DataNucleus.MetaData] - Class "ratechecker.shared.models.Rate" has been specified with JDO annotations so using those.
+02:31:06,663 (main) INFO  [DataNucleus.MetaData] - Class "ratechecker.shared.models.RateType" has no MetaData or annotations.
+02:31:06,725 (main) INFO  [DataNucleus.Enhancer] - Updating class file "file:/home/cherrot/code/web/gwt-gae-bestpractice/target/gwt-gae-bestpractice-1.0-SNAPSHOT/WEB-INF/classes/ratechecker/shared/models/Rate.class" with enhanced definition
+02:31:06,726 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (PersistenceCapable) : ratechecker.shared.models.Rate
+02:31:06,726 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=116 ms, enhance=53 ms, total=169 ms. Consult the log for full details
+02:32:28,785 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+02:32:28,972 (main) ERROR [DataNucleus.Plugin] - Bundle "org.datanucleus.store.appengine" requires "org.datanucleus" version "[1.0.4, 1.1.5.final)" but the resolved bundle has version "1.0.10.final" which is outside the expected range.
+02:32:28,973 (main) INFO  [DataNucleus.Plugin] - Bundle "org.datanucleus" has an optional dependency to "org.eclipse.equinox.registry" but it cannot be resolved
+02:32:28,973 (main) INFO  [DataNucleus.Plugin] - Bundle "org.datanucleus" has an optional dependency to "org.eclipse.core.runtime" but it cannot be resolved
+02:32:29,035 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 1.1.4) : Enhancement of classes
+02:32:29,103 (main) INFO  [DataNucleus.MetaData] - Class "ratechecker.shared.models.Rate" has been specified with JDO annotations so using those.
+02:32:29,144 (main) INFO  [DataNucleus.MetaData] - Class "ratechecker.shared.models.RateType" has no MetaData or annotations.
+02:32:29,175 (main) INFO  [DataNucleus.Enhancer] - Class "ratechecker.shared.models.Rate" is already enhanced.
+02:32:29,175 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (PersistenceCapable) : ratechecker.shared.models.Rate
+02:32:29,175 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=112 ms, enhance=25 ms, total=137 ms. Consult the log for full details
+02:32:54,508 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+02:32:54,719 (main) ERROR [DataNucleus.Plugin] - Bundle "org.datanucleus.store.appengine" requires "org.datanucleus" version "[1.0.4, 1.1.5.final)" but the resolved bundle has version "1.0.10.final" which is outside the expected range.
+02:32:54,719 (main) INFO  [DataNucleus.Plugin] - Bundle "org.datanucleus" has an optional dependency to "org.eclipse.equinox.registry" but it cannot be resolved
+02:32:54,719 (main) INFO  [DataNucleus.Plugin] - Bundle "org.datanucleus" has an optional dependency to "org.eclipse.core.runtime" but it cannot be resolved
+02:32:54,776 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 1.1.4) : Enhancement of classes
+02:32:54,843 (main) INFO  [DataNucleus.MetaData] - Class "ratechecker.shared.models.Rate" has been specified with JDO annotations so using those.
+02:32:54,882 (main) INFO  [DataNucleus.MetaData] - Class "ratechecker.shared.models.RateType" has no MetaData or annotations.
+02:32:54,915 (main) INFO  [DataNucleus.Enhancer] - Class "ratechecker.shared.models.Rate" is already enhanced.
+02:32:54,916 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (PersistenceCapable) : ratechecker.shared.models.Rate
+02:32:54,916 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=111 ms, enhance=26 ms, total=137 ms. Consult the log for full details
+02:33:26,243 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+02:33:26,432 (main) ERROR [DataNucleus.Plugin] - Bundle "org.datanucleus.store.appengine" requires "org.datanucleus" version "[1.0.4, 1.1.5.final)" but the resolved bundle has version "1.0.10.final" which is outside the expected range.
+02:33:26,432 (main) INFO  [DataNucleus.Plugin] - Bundle "org.datanucleus" has an optional dependency to "org.eclipse.equinox.registry" but it cannot be resolved
+02:33:26,432 (main) INFO  [DataNucleus.Plugin] - Bundle "org.datanucleus" has an optional dependency to "org.eclipse.core.runtime" but it cannot be resolved
+02:33:26,495 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 1.1.4) : Enhancement of classes
+02:33:26,563 (main) INFO  [DataNucleus.MetaData] - Class "ratechecker.shared.models.Rate" has been specified with JDO annotations so using those.
+02:33:26,597 (main) INFO  [DataNucleus.MetaData] - Class "ratechecker.shared.models.RateType" has no MetaData or annotations.
+02:33:26,630 (main) INFO  [DataNucleus.Enhancer] - Class "ratechecker.shared.models.Rate" is already enhanced.
+02:33:26,630 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (PersistenceCapable) : ratechecker.shared.models.Rate
+02:33:26,631 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=107 ms, enhance=25 ms, total=132 ms. Consult the log for full details
